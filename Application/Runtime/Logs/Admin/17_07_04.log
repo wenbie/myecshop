@@ -1,0 +1,1757 @@
+[ 2017-07-04T14:17:23+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003871s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000678s ]
+
+[ 2017-07-04T14:17:45+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006590s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006658s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-07-04T14:17:50+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006270s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006317s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-07-04T14:17:58+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007457s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007511s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-07-04T14:18:15+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006152s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-07-04T14:22:45+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007772s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007818s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-07-04T14:24:05+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000599s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-07-04T14:25:38+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007381s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007429s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-07-04T14:28:39+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007102s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-07-04T14:28:58+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007833s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007879s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-07-04T14:34:16+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007183s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-07-04T14:36:09+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007319s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007381s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-07-04T14:36:41+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [8] Undefined index: validate D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`is_hot`,`market_price`,`goods_body`,`addtime`,`goods_img`,`goods_thumb`) VALUES ('商品扩展分类','JX595b3779504cb','13','1599','1','1','2345.02','&lt;p&gt;abc&lt;/p&gt;','1499150201','Uploads/2017-07-04/595b377950f91.jpg','Uploads/2017-07-04/thumb_595b377950f91.jpg') [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `jx_goods_cate` [ RunTime:0.0020s ]
+SQL: INSERT INTO `jx_goods_cate` (`goods_id`,`cate_id`) VALUES ('36','10'),('36','11') [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007285s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2017-07-04T14:36:42+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000216s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010193s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-07-04T15:02:24+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007893s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007937s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-07-04T15:12:46+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006984s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007027s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-07-04T15:14:27+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008692s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008747s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-07-04T15:20:25+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006449s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-07-04T15:22:02+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009745s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009795s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-07-04T15:23:32+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009591s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009646s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-07-04T16:31:19+08:00 ] 127.0.0.1 /index.php/Admin/goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001051s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009099s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000545s ]
+
+[ 2017-07-04T16:37:42+08:00 ] 127.0.0.1 /admin/goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0036s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000486s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000529s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011492s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011541s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000707s ]
+
+[ 2017-07-04T16:38:07+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006587s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-07-04T16:39:26+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006604s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006652s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-07-04T17:04:57+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006278s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006336s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-07-04T17:06:26+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006585s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-07-04T17:07:01+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006488s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-07-04T17:08:04+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006121s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006171s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000223s ]
+
+[ 2017-07-04T17:09:36+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005976s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006018s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-07-04T17:10:53+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005916s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005963s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000259s ]
+
+[ 2017-07-04T17:13:35+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006932s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007022s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-07-04T17:14:09+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005932s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-07-04T17:24:31+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-07-04T17:26:03+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-07-04T17:27:38+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009339s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009388s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-07-04T17:29:59+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009246s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009297s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-07-04T17:32:08+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006490s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006531s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-07-04T17:32:53+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [8] Undefined index: validate D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`addtime`,`goods_img`,`goods_thumb`) VALUES ('扩展分类商品测试','JX595b60c558cd7','11','100','1','200','1499160773','Uploads/2017-07-04/595b60c559a1f.jpg','Uploads/2017-07-04/thumb_595b60c559a1f.jpg') [ RunTime:0.0043s ]
+
+[ 2017-07-04T17:33:08+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001021s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [8] Undefined index: validate D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`addtime`,`goods_img`,`goods_thumb`) VALUES ('扩展分类商品测试','JX595b60d4bcce4','11','100','1','200','1499160788','Uploads/2017-07-04/595b60d4bd677.jpg','Uploads/2017-07-04/thumb_595b60d4bd677.jpg') [ RunTime:0.0041s ]
+
+[ 2017-07-04T17:34:19+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009273s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-07-04T17:38:30+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006490s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006544s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-07-04T17:38:54+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [8] Undefined index: validate D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`is_hot`,`market_price`,`goods_body`,`addtime`,`goods_img`,`goods_thumb`) VALUES ('扩展分类商品测试2','JX595b622e61a4f','13','100','1','1','200','&lt;p&gt;啊ABC&lt;/p&gt;','1499161134','Uploads/2017-07-04/595b622e6213e.jpg','Uploads/2017-07-04/thumb_595b622e6213e.jpg') [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `jx_goods_cate` [ RunTime:0.0022s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 120 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 120 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 120 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 120 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 120 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 120 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 120 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 120 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 120 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 120 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 120 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 120 行.
+ERR: 1136:Column count doesn't match value count at row 1
+ [ SQL语句 ] : INSERT INTO `jx_goods_cate` (`goods_id`,`cate_id`) VALUES (),(),(),(),(),(),(),(),(),(),(),(),('39','10'),('39','11')
+ERR: 1136:Column count doesn't match value count at row 1
+ [ SQL语句 ] : INSERT INTO `jx_goods_cate` (`goods_id`,`cate_id`) VALUES (),(),(),(),(),(),(),(),(),(),(),(),('39','10'),('39','11')
+
+[ 2017-07-04T17:40:02+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [8] Undefined index: validate D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`is_hot`,`market_price`,`addtime`,`goods_img`,`goods_thumb`) VALUES ('扩展分类商品测试2','JX595b627236409','13','100','1','1','200','1499161202','Uploads/2017-07-04/595b6272370cd.jpg','Uploads/2017-07-04/thumb_595b6272370cd.jpg') [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `jx_goods_cate` [ RunTime:0.0021s ]
+SQL: INSERT INTO `jx_goods_cate` (`goods_id`,`cate_id`) VALUES ('40','10'),('40','11') [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006718s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001451s ]
+
+[ 2017-07-04T17:40:03+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008669s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000622s ]
+
+[ 2017-07-04T18:58:48+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006631s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-07-04T18:59:54+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006614s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-07-04T19:23:58+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006435s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006476s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000264s ]
+
+[ 2017-07-04T19:25:25+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007539s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007587s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-07-04T19:29:15+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007457s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-07-04T19:30:16+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008591s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008637s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-07-04T19:37:20+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006901s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-07-04T19:38:37+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-07-04T19:40:17+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006921s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006965s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-07-04T19:42:55+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007206s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-07-04T19:44:44+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008663s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-07-04T19:50:09+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007300s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007344s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-07-04T19:50:33+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [8] Undefined index: validate D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Server\Apache2.2\htdocs\jxshop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `jx_goods` (`goods_name`,`goods_sn`,`cate_id`,`shop_price`,`is_sale`,`market_price`,`goods_body`,`addtime`,`goods_img`,`goods_thumb`) VALUES ('扩展分类商品测试','JX595b8109bd71c','13','100','1','200','&lt;p&gt;啊啊&lt;/p&gt;','1499169033','Uploads/2017-07-04/595b8109bdf82.jpg','Uploads/2017-07-04/thumb_595b8109bdf82.jpg') [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `jx_goods_cate` [ RunTime:0.0021s ]
+SQL: INSERT INTO `jx_goods_cate` (`goods_id`,`cate_id`) VALUES ('41','12'),('41','11') [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006482s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006521s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2017-07-04T19:50:34+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008159s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-07-04T19:50:34+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007612s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-07-04T20:15:46+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001424s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2017-07-04T20:15:46+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_search.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-07-04T20:15:46+08:00 ] 127.0.0.1 /Admin/Goods/Images/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-07-04T20:15:46+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_edit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-07-04T20:15:46+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_trash.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-07-04T20:15:46+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_view.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-07-04T20:17:51+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007390s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000672s ]
+
+[ 2017-07-04T20:17:52+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_search.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-07-04T20:17:52+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_view.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2017-07-04T20:17:52+08:00 ] 127.0.0.1 /Admin/Goods/Images/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-07-04T20:17:52+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_edit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-07-04T20:17:52+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_trash.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000978s ]
+
+[ 2017-07-04T20:35:06+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005829s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000750s ]
+
+[ 2017-07-04T20:35:06+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_search.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001094s ]
+
+[ 2017-07-04T20:35:06+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_view.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+
+[ 2017-07-04T20:35:06+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_trash.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-07-04T20:35:06+08:00 ] 127.0.0.1 /Admin/Goods/Images/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-07-04T20:35:06+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_edit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-07-04T20:36:07+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001268s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005962s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006013s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-07-04T20:54:06+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005747s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2017-07-04T20:54:06+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_search.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-07-04T20:54:06+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_view.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-07-04T20:54:06+08:00 ] 127.0.0.1 /Admin/Goods/Images/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-07-04T20:54:06+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_trash.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-07-04T20:54:06+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_edit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-07-04T20:54:12+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007152s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-07-04T21:00:55+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-07-04T21:00:55+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_search.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-07-04T21:00:55+08:00 ] 127.0.0.1 /Admin/Goods/Images/yes.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-07-04T21:00:55+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_view.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-07-04T21:00:55+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_edit.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-07-04T21:00:55+08:00 ] 127.0.0.1 /Admin/Goods/Images/icon_trash.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-07-04T21:01:52+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005921s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005988s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2017-07-04T21:03:46+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006432s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006482s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-07-04T21:06:09+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007164s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007222s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2017-07-04T21:06:55+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009170s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000552s ]
+
+[ 2017-07-04T21:08:54+08:00 ] 127.0.0.1 /Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+SQL: SELECT * FROM `jx_category`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008588s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008658s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-07-04T21:30:21+08:00 ] 127.0.0.1 /Admin/Goods/INDEX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006109s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-07-04T21:30:24+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005951s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-07-04T21:31:55+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001808s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2017-07-04T21:33:27+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006756s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-07-04T21:33:47+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008561s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008621s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2017-07-04T21:34:33+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2017-07-04T21:37:14+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007189s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007246s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-07-04T21:54:03+08:00 ] 127.0.0.1 /Admin/Goods/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `jx_goods` WHERE ( isdel=1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 ) LIMIT 0,1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008075s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2017-07-04T21:54:09+08:00 ] 127.0.0.1 /Admin/Goods/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `jx_goods` WHERE ( isdel=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 ) LIMIT 1,1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007414s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-07-04T21:54:11+08:00 ] 127.0.0.1 /Admin/Goods/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `jx_goods` WHERE ( isdel=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 ) LIMIT 2,1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007260s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-07-04T21:54:12+08:00 ] 127.0.0.1 /Admin/Goods/index/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_before_insert() should be compatible with Think\Model::_before_insert(&$data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\Server\Apache2.2\htdocs\jxshop\Application\Admin\Model\GoodsModel.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `jx_goods` WHERE ( isdel=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `jx_goods` WHERE ( isdel=1 ) LIMIT 3,1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007581s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000518s ]
+
